@@ -1,0 +1,72 @@
+/* Reset default styles */
+body {
+    /* Add styles for body */
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header styles */
+header {
+    /* Add header styles */
+    background-color: #616161;
+    color: #ded1cf;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Heading styles */
+h1 {
+    /* Add h1 styles */
+    margin: 0;
+
+}
+
+h2 {
+    /* Add h2 styles */
+}
+
+h3 {
+    /* Add h3 styles */
+}
+
+/* Navigation styles */
+nav {
+    /* Add nav styles */
+}
+
+nav ul {
+    /* Add styles for navigation list */
+}
+
+nav li {
+    /* Add styles for list items */
+}
+
+/* Link styles */
+a {
+    /* Add link styles */
+}
+
+a:hover {
+    /* Add hover effect for links */
+}
+
+/* Main content styles */
+main {
+    /* Add main styles */
+}
+
+/* Section styles */
+section {
+    /* Add section styles */
+}
+
+/* Paragraph styles */
+p {
+    /* Add paragraph styles */
+}
+
+/* Footer styles */
+footer {
+    /* Add footer styles */
+}
