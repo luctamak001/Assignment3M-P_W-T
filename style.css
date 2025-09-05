@@ -40,35 +40,42 @@ h3 {
 /* Navigation styles */
 nav {
     /* Add nav styles */
-    background-color: #c49102;
+    margin: 0;
 
 }
 
 nav ul {
     /* Add styles for navigation list */
+    margin: 0;
+
 }
 
 nav li {
     /* Add styles for list items */
+    display: inline;
 }
 
 /* Link styles */
 a {
     /* Add link styles */
+    text-decoration: darkblue;
 }
 
 a:hover {
     /* Add hover effect for links */
+    text-decoration: underline;
 }
 
 /* Main content styles */
 main {
     /* Add main styles */
+    margin: 0;
 }
 
 /* Section styles */
 section {
     /* Add section styles */
+    margin: 0;
 }
 
 /* Paragraph styles */
