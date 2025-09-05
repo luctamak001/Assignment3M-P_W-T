@@ -33,8 +33,8 @@ h2 {
 
 h3 {
     /* Add h3 styles */
-    background-color: #4f4f4f;
-    color: #d1cbcb;
+    background-color: bisque;
+    color: #616161;
 }
 
 /* Navigation styles */
@@ -81,9 +81,13 @@ section {
 /* Paragraph styles */
 p {
     /* Add paragraph styles */
+    background-color: #4f4f4f;
+    color: #d1cbcb;
 }
 
 /* Footer styles */
-footer {
+footer p{
     /* Add footer styles */
+    background-color: coral;
+    color: #616161;
 }
